@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/pitwegner/release-the-hydra.svg?branch=master)](https://travis-ci.com/pitwegner/release-the-hydra)
+
 # release-the-hydra
 
 ## Tests
